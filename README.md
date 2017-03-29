@@ -36,36 +36,36 @@ RDOS 是基于 MS-DOS 7.1 的超强启动盘，支持以下几种启动选择：
 
 下面是可用的命令列表
 
-ATTRIB    添加或删除文件属性
-CHOICE    批处理选择命令
-COMMAND   命令行解释程序
-DEBUG     调试实用程序
-DELTREE   删除目录和文件
-DEVICE    设备驱动程序加载工具
-DISKGEN   中文磁盘分区管理工具
-DOSKEY    键盘输入宏工具
-DOSLFN    长文件名支持
-EDIT      文本编辑器
-FDISK     磁盘分区工具
-FORMAT    磁盘格式化工具
-GHOST     磁盘备份和恢复工具
-MEM       内存信息查看
-MEMTEST   内存测试工具，必须使用干净引导模式，否则无法正常检测
-MORE      分屏显示
-MOUSE     鼠标驱动
-NTFSDOS   完全读写 NTFS 分区的工具
-NTPASS    支持 FAT/NTFS 分区的密码重置工具
-PQMAGIC   磁盘无损分区工具
-RESTART   重新启动
-SHSUCDHD  虚拟光驱
-SHSUCDX   小巧实用的光驱扩展驱动程序
-SMARTDRV  磁盘高速缓冲程序
-SYS       传输系统文件，将磁盘制成启动盘
-TWAY      天汇汉字系统
-TWKEY     天汇拼音输入法
-UNZIP     解压工具，支持长文件名
-XCOPY     文件和目录复制工具
-XMSDSK    虚拟内存盘工具
+	ATTRIB    添加或删除文件属性
+	CHOICE    批处理选择命令
+	COMMAND   命令行解释程序
+	DEBUG     调试实用程序
+	DELTREE   删除目录和文件
+	DEVICE    设备驱动程序加载工具
+	DISKGEN   中文磁盘分区管理工具
+	DOSKEY    键盘输入宏工具
+	DOSLFN    长文件名支持
+	EDIT      文本编辑器
+	FDISK     磁盘分区工具
+	FORMAT    磁盘格式化工具
+	GHOST     磁盘备份和恢复工具
+	MEM       内存信息查看
+	MEMTEST   内存测试工具，必须使用干净引导模式，否则无法正常检测
+	MORE      分屏显示
+	MOUSE     鼠标驱动
+	NTFSDOS   完全读写 NTFS 分区的工具
+	NTPASS    支持 FAT/NTFS 分区的密码重置工具
+	PQMAGIC   磁盘无损分区工具
+	RESTART   重新启动
+	SHSUCDHD  虚拟光驱
+	SHSUCDX   小巧实用的光驱扩展驱动程序
+	SMARTDRV  磁盘高速缓冲程序
+	SYS       传输系统文件，将磁盘制成启动盘
+	TWAY      天汇汉字系统
+	TWKEY     天汇拼音输入法
+	UNZIP     解压工具，支持长文件名
+	XCOPY     文件和目录复制工具
+	XMSDSK    虚拟内存盘工具
 
 
 # 二、安装
@@ -118,7 +118,9 @@ REBOOT 就是以光盘 ISO 形式提供的，只要直接把 REBOOT.ISO 刻录�
 # 四、致谢
 
 ◎ 感谢 老九、老毛桃、neo4026、uepon，RWIN 启动盘是在这几位网友的启动盘基础上制作的。
+
 ◎ 感谢 GRUB4DOS、BOOTICE、FBINST 和其它相关工具的作者。
+
 ◎ 感谢 小马 提供的网卡硬件驱动包。
 
 要获取更多信息，请访问 WWW.YONSM.NET
