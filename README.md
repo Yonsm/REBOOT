@@ -126,7 +126,11 @@ REBOOT 就是以光盘 ISO 形式提供的，只要直接把 REBOOT.ISO 刻录�
 要获取更多信息，请访问 WWW.YONSM.NET
 
 Yonsm
+
 Yonsm@msn.com
+
 WWW.Yonsm.NET
+
 2012.03.13 杭州
+
 FOR MY DREAM, FOR MY JANE
